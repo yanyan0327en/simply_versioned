@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
