@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
