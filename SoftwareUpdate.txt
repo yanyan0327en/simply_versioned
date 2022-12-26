@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Optimize function calls to method calls (#8507)
