@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
