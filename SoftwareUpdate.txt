@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Add visuals in guides/distance-calculation.md (#7876)
