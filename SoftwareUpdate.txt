@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Fix IS_PYTHON_3_12 bug (#9258)
