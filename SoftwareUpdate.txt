@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
