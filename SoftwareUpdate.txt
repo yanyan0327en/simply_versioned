@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
