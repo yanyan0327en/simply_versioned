@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
