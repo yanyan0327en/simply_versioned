@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+Merge pull request #22 from SkalskiP/patch-1
