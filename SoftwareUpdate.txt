@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Update HTTP to HTTPS (#7548)
