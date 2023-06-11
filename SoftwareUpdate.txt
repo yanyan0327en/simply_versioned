@@ -1,1 +1,1 @@
-added badges (#45)
+Add horizontal Mosaic3 augmentation (#6898)
