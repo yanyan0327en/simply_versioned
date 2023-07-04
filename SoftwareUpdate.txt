@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Feature: Create HUB Models from CLI or Python Script (#7316)
