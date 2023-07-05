@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
