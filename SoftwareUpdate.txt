@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
