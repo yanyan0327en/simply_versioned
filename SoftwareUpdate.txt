@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
