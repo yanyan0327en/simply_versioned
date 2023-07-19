@@ -1,1 +1,1 @@
-TensorRT FP16 export with dynamic=True (#7870)
+Update Discord and Contributing Guide URLs (#9270)
