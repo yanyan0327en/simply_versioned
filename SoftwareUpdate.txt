@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Clean up unused imgsz (#7771)
