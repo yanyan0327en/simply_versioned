@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
