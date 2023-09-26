@@ -1,1 +1,1 @@
-Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
