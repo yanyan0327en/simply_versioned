@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
