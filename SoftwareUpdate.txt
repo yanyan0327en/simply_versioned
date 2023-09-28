@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Add visuals in guides/distance-calculation.md (#7876)
