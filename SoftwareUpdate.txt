@@ -1,1 +1,1 @@
-Add visuals in guides/distance-calculation.md (#7876)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
