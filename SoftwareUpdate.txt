@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Replacing Images for torchscript.md (#8596)
