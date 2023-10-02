@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update inference.cpp (bug) (#7279)
