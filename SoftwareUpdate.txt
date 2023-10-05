@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+docs: update view-results-in-terminal.md (#66)
