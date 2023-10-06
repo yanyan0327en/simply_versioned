@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
