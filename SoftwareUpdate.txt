@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
