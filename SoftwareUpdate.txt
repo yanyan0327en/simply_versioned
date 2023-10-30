@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Update neural-magic.md (#7347)
