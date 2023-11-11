@@ -1,1 +1,1 @@
-ultralytics 8.1.34 Inference API robust imgsz checks (#9274)
+Explorer with LanceDB, Actions and Docs updates (#7487)
