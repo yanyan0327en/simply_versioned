@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+Update Discord and Contributing Guide URLs (#9270)
