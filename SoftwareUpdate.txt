@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Resize angle, count, and stage on keypoint number change (#7598)
