@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
