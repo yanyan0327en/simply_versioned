@@ -1,1 +1,1 @@
-OBB Docs updates (#7512)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
