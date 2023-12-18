@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Retry once for Docker CI failures (#8164)
