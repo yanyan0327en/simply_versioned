@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Bounding Box to OBB conversion (#7572)
