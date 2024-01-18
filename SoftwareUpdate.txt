@@ -1,1 +1,1 @@
-ultralytics 8.1.23 add YOLOv9-C and E models (#8571)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
