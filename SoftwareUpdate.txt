@@ -1,1 +1,1 @@
-Fix docs H1 tags (#7182)
+YOLOv8 INT8 TFLite Inference Example (#7317)
