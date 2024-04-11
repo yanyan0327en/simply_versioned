@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Mkdocs annotations fixes (#7600)
