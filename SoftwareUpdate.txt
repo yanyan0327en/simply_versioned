@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Move Explorer tests to scheduled CI (#8305)
