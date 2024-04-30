@@ -1,1 +1,1 @@
-Move Explorer tests to scheduled CI (#8305)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
