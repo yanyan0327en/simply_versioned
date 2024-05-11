@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
