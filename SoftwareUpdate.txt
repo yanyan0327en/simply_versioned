@@ -1,1 +1,1 @@
-Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
+docs: update view-results-in-terminal.md (#66)
