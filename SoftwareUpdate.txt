@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update pyproject.toml and Docs (#7274)
