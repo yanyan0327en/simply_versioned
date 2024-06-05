@@ -1,1 +1,1 @@
-Improve Docs Modes tables (#8266)
+fix yolo classify model loading error (#9196)
