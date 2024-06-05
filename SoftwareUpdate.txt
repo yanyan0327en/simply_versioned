@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Replace onnx2tf usage from CLI to Python (#8429)
